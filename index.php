@@ -1,9 +1,8 @@
 <html>
-<<<<<<< HEAD
-<body>
-	
-</body>
-=======
-	
->>>>>>> parent of cb95acc... 123
+	<body>
+
+		<ul>
+			<li>깃깃</li>
+		</ul>	
+	</body>
 </html>

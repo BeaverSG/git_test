@@ -1,9 +1,6 @@
 <html>
-<<<<<<< HEAD
-<body>
-	
-</body>
-=======
-	
->>>>>>> parent of cb95acc... 123
+	<body>
+		마스터!
+		
+	</body>
 </html>
